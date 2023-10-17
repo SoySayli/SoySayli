@@ -65,10 +65,6 @@ function Footer() {
         </Col>
       </Row>
     </Container>
-<audio controls autoplay>
-  <source src="https://github.com/SoySayli/SoySayli/blob/master/public/audio.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
   );
 }
 
