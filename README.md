@@ -3,7 +3,7 @@
   <a href="https://soy-sayli.vercel.app/" target="_blank">Ilyas Alami</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="./Images/readme-immg1.png" />
 </div>
 
 <br/>
